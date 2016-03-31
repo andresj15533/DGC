@@ -29,7 +29,7 @@ public class Main {
         
         tp = tpDao.findById(tp.getIdTipoParametro());
         tpDao.delete(tp);
-        
+        //diablo
     
     }
     
